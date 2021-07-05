@@ -78,4 +78,7 @@ footer p{
 .padding{
 padding-bottom: 150px;
 padding-top: 20px;
-
+}
+.color{
+    color: gray;
+}
